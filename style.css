@@ -1,0 +1,27 @@
+.puji {
+    text-align: center;
+    /* border: 2px solid red; */
+    margin-top: -10px;
+    height: 79px;
+    background: linear-gradient(to right,rgb(236, 49, 80) 5% ,rgb(76, 76, 222) 50%, rgb(239, 44, 239));
+    padding-top: 10px;
+}
+body{
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.puji1{
+    text-align: center;
+}
+.puji2{
+    text-align: center;
+}
+.puji3{
+    text-align: center;
+}
+.puji3 button:hover{
+    background-color: aquamarine;
+    color: white;
+}
